@@ -29,7 +29,7 @@ $ python2 xNot_Found.py
 
 *CONTACT ME*
 ```bash
-Whatsapp : +12342172669
+Whatsapp : +62823-8637-2115
 LINE ID  : hatakecnk
 Facebook : https://m.facebook.com/hatakecnk
 ```
