@@ -29,6 +29,7 @@ $ python2 xNot_Found.py
 
 *CONTACT ME*
 ```bash
+Email : febryafriansyah@programmer.net
 Whatsapp : +62823-8637-2115
 LINE ID  : hatakecnk
 Facebook : https://m.facebook.com/hatakecnk
