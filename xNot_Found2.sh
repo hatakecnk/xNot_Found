@@ -7,5 +7,6 @@ sleep 1
 echo "[+] Terima Kasih :)"
 sleep 1
 echo "[+] Kami Akan Mengarahkan Anda Kembali Ke Menu Tool Page 1"
-sleep 5
+echo $b"\033[31;1mTap Enter To Continue"
+read enter
 sh xNot_Found.sh
